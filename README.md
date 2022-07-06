@@ -14,8 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshaysaini12104066/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaysaini12104066/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshaysaini12104066/" target="blank"><img align="center" 
+href="https://kaggle.com/akshaysaini798" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaysaini12104066/" height="30" width="40" /></a>
 <a href="https://instagram.com/sainiakshay798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainiakshay798" height="30" width="40" /></a>
+
 </p>
 
 [<img src="https://img.icons8.com/dusk/64/000000/facebook.png"/>](https://www.facebook.com/akshay.saini.798)
