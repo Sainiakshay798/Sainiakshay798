@@ -18,6 +18,7 @@
 href="https://kaggle.com/akshaysaini798" target="blank"><img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshaysaini12104066/" height="30" width="40" /></a>
 <a href="https://instagram.com/sainiakshay798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainiakshay798" height="30" width="40" /></a>
+<a href="https://kaggle.com/akshaysaini798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshaysaini798" height="30" width="40" /></a>
 
 </p>
 
