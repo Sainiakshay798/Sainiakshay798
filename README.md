@@ -11,7 +11,8 @@
 - 👀 I’m interested in Data science... 
 - 💻 Pursuing Masters of Computer Applications @Lovely_Professional_University 
 - 📫 How to reach me **akshaysaini12104066@gmail.com ! akshaysaini12104066@gmail.com ! akshay.12104066@lpu.in**
-   
+
+   LinkedIn- https://www.linkedin.com/in/akshaysaini12104066/
    My Portfolio - https://sainiakshay798.github.io/My-Portfolio--/ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
